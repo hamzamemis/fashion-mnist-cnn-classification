@@ -25,7 +25,7 @@ Bu depo, Derin Öğrenme dersi **Computer Vision Ödevi** kapsamında hazırlanm
 | **Best Performance** | Validation Acc: **%91.66** (Epoch 6, Val Loss: 0.2285) \| Test Acc: **%91.00**, Precision: **0.9105**, Recall: **0.9100**, F1-Score: **0.9089** \| Eğitim Süresi: **545.7 sn** |
 | **Inference Time** | Tek görüntü ortalama: **0.737 ms** (10.000 test görüntüsü toplam: **5.151 sn**; gerçek fotoğraflarda ön işleme dâhil ~**1.44 ms**) |
 | **Deployment Technology** | Gradio Web Arayüzü (`gradio.Interface`, canlı paylaşım linki ile) |
-| **Repository** | *(GitHub depo bağlantınızı buraya ekleyin)* |
+| **Repository** | *((https://github.com/hamzamemis/fashion-mnist-cnn-classification.git))* |
 
 ---
 
